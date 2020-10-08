@@ -11,4 +11,4 @@ The original source of the data comes from [this](https://www.kaggle.com/cnic92/
 ## Purpose
 The aim was the identification of the most important attributes that the most popular songs share and have in common.
 
-In the regression problem, various models were built in order to predict the popularity of songs. Whereas the classification problem led to the construction of models that predicted the genre of the respective songs.
+In the regression problem, various models were built in order to predict the popularity of songs, whereas the classification problem led to the construction of models that predicted the genre of the respective songs.
