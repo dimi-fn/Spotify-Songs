@@ -1,7 +1,7 @@
 # Spotify-Songs
 
 ### *Note:
-Due to a Github bug ([issue #3555](https://github.com/jupyter/notebook/issues/3555)), sometimes the notebook files (files with .ipynb) may not render. Please reload the page until the content can be displayed. If that is not possible, then shared google colab notebook links are provided to each directory.
+Due to a Github bug ([issue #3555](https://github.com/jupyter/notebook/issues/3555)), sometimes the notebook files (files with .ipynb) may not render. Please reload the page until the content can be displayed. If that is not possible, then shared Google Colab notebook links are provided to each directory.
 
 ## Description & Objectives
 Exploratory data analysis of the popularity of songs derived from the last 7 decades (1950 - 2010) with various regression and classification problems. 
