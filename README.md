@@ -17,4 +17,4 @@ The data was modified (e.g. merging and cleaning the CSV files provided) in such
 
 The aim was the identification of the most important attributes that the most popular songs share and have in common.
 
-In the [regression problem](https://github.com/dimi-fn/Spotify-Songs/tree/master/Spotify_Songs_Popularity_Regression), various models were built in order to predict the popularity of songs, whereas the [classification problem](https://github.com/dimi-fn/Spotify-Songs/tree/master/Spotify_Songs_Genres_Classification) led to the construction of models that predicted the genre of the respective songs.
+In the [regression problem](https://github.com/dimi-fn/Spotify-Songs/tree/master/Spotify_Songs_Popularity_Regression), various models were built in order to predict the popularity of the songs, whereas the [classification problem](https://github.com/dimi-fn/Spotify-Songs/tree/master/Spotify_Songs_Genres_Classification) led to the construction of models that predicted their music genre.
